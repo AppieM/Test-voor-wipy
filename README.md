@@ -1,2 +1,2 @@
-# Test-voor-wipy
-Wipy programma voor meten vd afstand
+# wipy afstandsmeting
+Wipy programma voor meten vd afstand dmv een HC-SR04
